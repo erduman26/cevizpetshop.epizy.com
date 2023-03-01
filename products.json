@@ -1,0 +1,347 @@
+[
+    {
+        "urun":"TAŞIMA-ÇANTALARI",
+        "isim":"DÜZ MODEL ASTRANOT ÇANTA",
+        "ağırlık":"10",
+        "img":"/static/img/düzastranot.png",
+        "bilgiler":[
+            "➡️1600 Denye ithal kumaştan üretilmiştir.",
+            "➡️10 Micron Kalınlığında Kırılmaz Ön Panel.",
+            "➡️12 Kg kadar taşıma kapasiteli.",
+            "➡️Net ağırlık 1300 Gr.",
+            "➡️Rüzgar, yağmur, soğuk geçirmez ürün Outdoor Üründür.",
+            "➡️Pati desenli ortopedik ped kullanılmaktadır."
+        ]
+    },
+    {
+        "urun":"TAŞIMA-ÇANTALARI",
+        "isim":"FANUSLU ASTRANOT ÇANTA",
+        "ağırlık":"10",
+        "img":"/static/img/fanusluastranot.png",
+        "bilgiler":[
+            "➡️1600 Denye ithal kumaştan üretilmiştir.",
+            "➡️10 Micron Kalınlığında Kırılmaz Ön Panel.",
+            "➡️12 Kg kadar taşıma kapasiteli.",
+            "➡️Net ağırlık 1300 Gr.",
+            "➡️Rüzgar, yağmur, soğuk geçirmez ürün Outdoor Üründür.",
+            "➡️Pati desenli ortopedik ped kullanılmaktadır."
+        ]
+    },
+    {
+        "urun":"TAŞIMA-ÇANTALARI",
+        "isim":"MİKA ASTRANOT ÇANTA",
+        "ağırlık":"10",
+        "img":"/static/img/mikaastranot.png",
+        "bilgiler":[
+            "➡️300 denye ithal kumaştan üretilmiştir.",
+            "➡️5 – 6 kg kadar taşıma kapasiteli.",
+            "➡️Net ağırlığı 1280 Gr.",
+            "➡️1mm kalınlığında mika kullanılmıştır."
+        ]
+    },
+    {
+        "urun":"TAŞIMA-ÇANTALARI",
+        "isim":"FİLELİ MODEL ASTRANOT ÇANTA",
+        "ağırlık":"10",
+        "img":"/static/img/fileliastranot.png",
+        "bilgiler":[
+            "➡️1600 Denye ithal kumaştan üretilmiştir.",
+            "➡️10 Micron Kalınlığında Kırılmaz Ön Panel.",
+            "➡️12 Kg kadar taşıma kapasiteli.",
+            "➡️Net ağırlık 1300 Gr.",
+            "➡️Rüzgar, yağmur, soğuk geçirmez ürün Outdoor Üründür.",
+            "➡️Arka tarafı fileli kısmı açılarak yuvaya dönüşen modeldir.",
+            "➡️Pati desenli ortopedik ped kullanılmaktadır."
+        ]
+    },
+    {
+        "urun":"TAŞIMA-ÇANTALARI",
+        "isim":"FLYBAG ASTRANOT ÇANTA",
+        "ağırlık":"10",
+        "img":"/static/img/flybagastranot.png",
+        "bilgiler":[
+            "➡️1600 Denye ithal kumaştan üretilmiştir.",
+            "➡️10 Micron Kalınlığında Kırılmaz Ön Panel.",
+            "➡️12 Kg kadar taşıma kapasiteli.",
+            "➡️Rüzgar, yağmur, soğuk geçirmez ürün Outdoor Üründür."
+        ]
+    },
+    {
+        "urun":"TAŞIMA-ÇANTALARI",
+        "isim":"ÇEKÇEKLİ ASTRANOT ÇANTA",
+        "ağırlık":"10",
+        "img":"/static/img/çekçeklikapitoneçanta.png",
+        "bilgiler":[
+            "➡️Kapitone özel kumaştan üretilmiştir.",
+            "➡️20 Kg kadar taşıma kapasitelidir.",
+            "➡️Devrilmez ve evcil dostlarımız sıkılmadan geniş bir hacimde keyifle yolculuğunu yapabilir.",
+            "➡️Uluslar arası standartlara göre uçak, gemi, otobüs, vapur gibi toplu taşımalara uygundur.",
+            "➡️Çelik hava kanalları sayesinde paslanmaz ömürlük bir kullanım sunar.",
+            "➡️10 micron kırılmaz sert ön panel."
+        ]
+    },
+    {
+        "urun":"TAŞIMA-ÇANTALARI",
+        "isim":"KUŞ ÇANTASI ASTRANOT",
+        "ağırlık":"10",
+        "img":"/static/img/kuşçantası.png",
+        "bilgiler":[
+            "➡️1 mm kalınlığında Mika kullanılmıştır.",
+            "➡️300 denye ithal kumaş kullanılmıştır.",
+            "➡️Çantanın içerisinde kanatlı hayvanların durabileceği tünek mevcuttur.",
+            "➡️Elde taşıma ve omuzdan taşımaya uygundur.",
+            "➡️Omuz askısı dahildir."
+        ]
+    },
+    {
+        "urun":"TAŞIMA-ÇANTALARI",
+        "isim":"DERİ TAŞIMA ÇANTASI",
+        "ağırlık":"10",
+        "img":"/static/img/deriçanta.png",
+        "bilgiler":[
+            "➡️Tamamen tasarıma yönelik özel üretim bir model olan deri taşıma çantasıdır.",
+            "➡️Ürünün ölçüleri Yükseklik : 35 cm, En : 35 cm, Boy : 50 cm’dir.",
+            "➡️Ürün suni deri içermektedir fakat içerisinde ki organik maddelerden ötürü koku, gevşeme, sarkma yaşanmaz.",
+            "➡️Çantanın üst bölümü fermuarlıdır, ayrıca diğer iki yanı da fermuarlıdır böylece evcil dostlarımız kolaylıkla içerisine girebilir ve çıkabilir.",
+            "➡️Hava kanalları paslanmaz çeliktir."
+        ]
+    },
+    {
+        "urun":"KEDİ-EV-VE-YATAKLARI",
+        "isim":"SİMİT YATAK",
+        "ağırlık":"10",
+        "img":"/static/img/simityatak.png",
+        "bilgiler":[
+            "➡️55 x 55 cm boyutlarındadır.",
+            "➡️Yatağın içerisi evcil dostlarımız için yumuşak elyaf ile doldurulmuştur.",
+            "➡️Yıkanabilir, tırmalama ile yırtılmaz."
+        ]
+    },
+    {
+        "urun":"KEDİ-EV-VE-YATAKLARI",
+        "isim":"KEDİ MAĞARA EVİ",
+        "ağırlık":"10",
+        "img":"/static/img/kedimagraevi.png",
+        "bilgiler":[
+            "➡️55 x 55 cm ölçülerindedir",
+            "➡️Yatağın içerisi evcil dostlarımız için yumuşak elyaf ile doldurulmuştur.",
+            "➡️Yıkanabilir, tırmalama ile yırtılmaz."
+        ]
+    },
+    {
+        "urun":"KEDİ-EV-VE-YATAKLARI",
+        "isim":"AHŞAP KEDİ HAMAĞI",
+        "ağırlık":"10",
+        "img":"/static/img/kedihamak.png",
+        "bilgiler":[
+            "➡️70 cm x 25 cm x 35 cm ölçülerindedir.",
+            "➡️Ürün MDF yapımdır.",
+            "➡️Demonte üründür.",
+            "➡️Hamak sökülerek yıkanabilir."
+        ]
+    },
+    {
+        "urun":"KEDİ-EV-VE-YATAKLARI",
+        "isim":"PATİ DETAYLI AHŞAP KEDİ YATAĞI",
+        "ağırlık":"10",
+        "img":"/static/img/ahşapkediyatağı.png",
+        "bilgiler":[
+            "➡️30 cm x 50 cm x 60 cm ölçülerindedir.",
+            "➡️Ürün tamamen MDF yapımdır.",
+            "➡️Demonte üründür.",
+            "➡️Estetik ve özel tasarım.",
+            "➡️Ergonomik kullanım alanına sahip."
+        ]
+    },
+    {
+        "urun":"KEDİ-EV-VE-YATAKLARI",
+        "isim":"ÜÇGEN KEDİ YATAĞI",
+        "ağırlık":"10",
+        "img":"/static/img/üçgenyatak.png",
+        "bilgiler":[
+            "➡️60 cm x 40 cm x 60 cm ölçülerindedir.",
+            "➡️Ürün tamamen MDF yapımdır.",
+            "➡️Demonte üründür."
+        ]
+    },
+    {
+        "urun":"KEDİ-EV-VE-YATAKLARI",
+        "isim":"KEDİ & KÖPEK ÇADIRI",
+        "ağırlık":"10",
+        "img":"/static/img/kediköpekcdr.png",
+        "bilgiler":[
+            "➡️50 cm x 65 cm ve 70 cm x 85 cm ölçülerinde ürünümüz bulunmaktadır."
+        ]
+    },
+    {
+        "urun":"KEDİ-EV-VE-YATAKLARI",
+        "isim":"KEDİ & KÖPEK SALINCAĞI",
+        "ağırlık":"10",
+        "img":"/static/img/kedisalıncak.png",
+        "bilgiler":[
+            "➡️Kedi ve küçük ırk köpekler için üretmiş olduğumuz son derece kullanışlı bir üründür.",
+            "➡️İskelet kısmı tamamen metalden üretilmiştir eğilme bükülme veya kırılma yaşanmaz.",
+            "➡️Ayağın yerden uzunluğu 90 cm, ayak genişliği 60 cm, kafes derinliği ve genişliği 50 cm dir."
+        ]
+    },
+    {
+        "urun":"KEDİ-KÖPEK-OYUNCAKLARI",
+        "isim":"ZİLLİ TOP OYUNCAK",
+        "ağırlık":"10",
+        "img":"/static/img/zillitop.png",
+        "bilgiler":[
+            "➡️1.Sınıf malzemeden üretilmiştir,kanserojen maddeler içermez.",
+            "➡️Topun içinde zil vardır.",
+            "➡️Eğlenceli vakit geçirmesine ve egzersiz yapmasına yardımcı olur."
+        ]
+    },
+    {
+        "urun":"KEDİ-KÖPEK-OYUNCAKLARI",
+        "isim":"3 KATLI KEDİ OYUNCAĞI",
+        "ağırlık":"10",
+        "img":"/static/img/3katlıoyuncak.png",
+        "bilgiler":[
+            "➡️Kedilerinizin evde zamanlarını geçirebileceği onları zinde tutan oyunlarını oynamasını sağlayan oyuncaktır.",
+            "➡️1. Sınıf plastik malzemeden imal edilmiştir.",
+            "➡️3 katlı kulenin her katında bir top hareket eder.Bu top kat rayından çıkmaz.Kediniz ona dokundukça kule etrafında hareket eder."
+        ]
+    },
+    {
+        "urun":"KEDİ-KÖPEK-OYUNCAKLARI",
+        "isim":"YENİ NESİL KEDİ AYAK OLTASI",
+        "ağırlık":"10",
+        "img":"/static/img/kediayakoltası.png",
+        "bilgiler":[
+            "➡️Bu ürün,etkileşimli oyun sırasında sahibi ve kedi arasındaki yakınlığı artıran çok fonksiyonlu bir interaktif kedi teaser oyuncağıdır.",
+            "➡️Bu oyuncağı ayaklarınızla da kullanabilir, birden fazla kedinin oynamaktan daha fazla keyif almasını sağlayabilirsiniz.",
+            "➡️Kedinin aktivitesini artırabilir, kedinin fiziğini güçlendirebilir, kedinin zekasını geliştirebilir."
+        ]
+    },
+    {
+        "urun":"KEDİ-KÖPEK-OYUNCAKLARI",
+        "isim":"KEDİ HACI YATMAZ",
+        "ağırlık":"10",
+        "img":"/static/img/kedihacıyatmaz.png",
+        "bilgiler":[
+            "➡️Kedinizin eğlenmesine ve egzersiz yapmasına yardımcı olan 3mm mdf kedi oyuncağıdır.",
+            "➡️Her boy ve yaştaki kedilerin oynaması için uygundur.",
+            "➡️Ürün 20cm x 20cm ölçülerindedir."
+        ]
+    },
+    {
+        "urun":"KEDİ-KÖPEK-OYUNCAKLARI",
+        "isim":"KEDİ TÜNELİ OYUNCAĞI",
+        "ağırlık":"10",
+        "img":"/static/img/keditüneli.png",
+        "bilgiler":[
+            "➡️Evcil dostunuzun sosyalleşmesini ve egzersiz yapmasını sağlar.",
+            "➡️Kedi oyuncağı kedinizi avcılığa ve oyun oynama iç güdülerini güçlendirir.",
+            "➡️Kedinizin evde yalnız başına kalmasına engel olur.",
+            "➡️Kedinizin oyunlarını oyuncaklarıyla oynamasını sağlar mobilya ve ev eşyalarınızla oynamasına engel olur.",
+            "➡️Evcil dostlarınıza zarar vermeyecek malzemeden üretilmiştir.",
+            "➡️Tüm boy Kedilerin oynamaları için uygundur."
+        ]
+    },
+    {
+        "urun":"KEDİ-KÖPEK-OYUNCAKLARI",
+        "isim":"ZİLLİ ÖRME OYUNCAK",
+        "ağırlık":"10",
+        "img":"/static/img/zillioyuncak.png",
+        "bilgiler":[
+            "➡️İp içeriği kedilerinizin sağlığına zarar vermeyecek ham maddelerden üretilmiştir.",
+            "➡️Kediniz için içgüdülerini zinde tutar.",
+            "➡️Fiziksel ve zihinsel gelişimine katkı sağlar.",
+            "➡️Eğlenceli vakit geçirmesine ve egzersiz yapmasına yardımcı olur."
+        ]
+    },
+    {
+        "urun":"DİĞER-ÜRÜNLER",
+        "isim":"MAMA TABANCASI",
+        "ağırlık":"10",
+        "img":"/static/img/mamatabancası.png",
+        "bilgiler":[
+            "➡️Köpekler ve kediler için mükemmel, kullanımı kolay ve eğlenceli oyun tabancası.",
+            "➡️Evcil hayvan sahibi ile iyi bir etkileşim yapar.",
+            "➡️Evcil dostlarınız ile keyifli mama saatleri artık sizleri bekliyor."
+        ]
+    },
+    {
+        "urun":"DİĞER-ÜRÜNLER",
+        "isim":"PATİ YIKAMA KUPASI",
+        "ağırlık":"10",
+        "img":"/static/img/yıkamakupası.png",
+        "bilgiler":[
+            "➡️Evcil dostlarınız ile keyifli mama saatleri artık sizleri bekliyor.",
+            "➡️Ayak yıkama kabında yumuşak ve temiz olan birçok yumuşak silikon fırça vardır.",
+            "➡️Silikon malzeme toksik olmayan çevre dostu iyi esnekliğe sahip ve temizlenmesi kolaydır.",
+            "➡️Ürün 11 cm x 8,5cm x 11 cm ölçülerindedir.",
+            "➡️Minik dostunuzun patilerini dört adımda kolayca temizleyebilirsiniz.İlk adımda kovaya bir miktar su ekleyin , İkinci adımda minik dostunuzun pençelerini su dolu kaba daldırın ve kabın etrafında döndürün.Bu döndürme hareketi ile silikon fırçalar kirlenmiş olan patilerini temizler,Üçüncü adım kaptaki silikon jeli kirli suyu boşalttıktan sonra çıkarmaktır.",
+            "➡️Temizleyerek yeniden kullanılabilir forma getirebilirsiniz."
+        ]
+    },
+    {
+        "urun":"DİĞER-ÜRÜNLER",
+        "isim":"KEDİ & KÖPEK HAVLUSU",
+        "ağırlık":"10",
+        "img":"/static/img/köpekhavlusu.png",
+        "bilgiler":[
+            "➡️Kedi & Köpek ‘ler için organik içeriklerden oluşan banyo sonrası kurulama havlusudur.",
+            "➡️Ölçüleri 90 x 100 cm dir.",
+            "➡️Suyu emicilikte ultra üstün kalitedir.",
+            "➡️Evcil dostlarımızın tüy ve derilerine asla zarar vermez.",
+            "➡️Tüy bırakmaz, solma yaşanmaz."
+        ]
+    },
+    {
+        "urun":"DİĞER-ÜRÜNLER",
+        "isim":"DESENLİ ELEKLİ PASPAS",
+        "ağırlık":"10",
+        "img":"/static/img/desenlipaspas.png",
+        "bilgiler":[
+            "➡️60 cm x 45 cm ölçülerindedir.",
+            "➡️Silinebilir yıkanabilir akma ve solma yapmaz."
+        ]
+    },
+    {
+        "urun":"DİĞER-ÜRÜNLER",
+        "isim":"DÜZ ELEKLİ PASPAS",
+        "ağırlık":"10",
+        "img":"/static/img/düzpaspas.png",
+        "bilgiler":[
+            "➡️60 cm x 45 cm ölçülerindedir.",
+            "➡️Silinebilir yıkanabilir akma ve solma yapmaz."
+        ]
+    },
+    {
+        "urun":"DİĞER-ÜRÜNLER",
+        "isim":"KEDİ TIRMALAMA TAHTASI",
+        "ağırlık":"10",
+        "img":"/static/img/tırmalamatahtası.png",
+        "bilgiler":[
+            "➡️Ahşap gövde üzerine Pelüş kumaş kaplanmıştır.",
+            "➡️Kediniz için içgüdülerini zinde tutar.",
+            "➡️Tırmalama borularında doğal ve dayanıklı 1.sınıf jüt halat kullanılmıştır.",
+            "➡️Kedi tırmalamalarını kediniz için daha cazip bir hale getirmek için bu tırmalamalar üzerine catnip (kedi otu) sürmeniz çok iyi sonuçlar verecektir."
+        ]
+    },
+    {
+        "urun":"MAMA-KAPLARI",
+        "isim":"PORSELEN SERAMİK MAMA KABI",
+        "ağırlık":"10",
+        "img":"/static/img/semamikkap.png",
+        "bilgiler":[
+            "➡️Bulaşık makinasında yıkanabilir.",
+            "➡️Kase Çap 13 cm dir.",
+            "➡️Derinlik 4 cm dir."
+        ]
+    },
+    {
+        "urun":"MAMA-KAPLARI",
+        "isim":"KEDİ KAFALI İKİLİ MAMA KABI",
+        "ağırlık":"10",
+        "img":"/static/img/kedilimamakap.png",
+        "bilgiler":[
+            "➡️Kedi kafalı şeffaf ikili mama kabı, 15 derece eğimli kedinizin rahatça mamasını yiyebileceği suyunu içebileceği şekilde tasarlanmış bir üründür."
+        ]
+    }
+]

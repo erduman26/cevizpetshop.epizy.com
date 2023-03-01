@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ErdemPet</title>
+    <link rel="stylesheet" href="/static/styles/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.6.3.slim.min.js" integrity="sha256-ZwqZIVdD3iXNyGHbSYdsmWP//UBokj2FHAxKuSBKDSo=" crossorigin="anonymous"></script>
+</head>
+
+<body class="main-content">
+    <ul class="headerbar">
+        <li><img class="imgayar" src="/static/img/erdempetlogo.png"></li>        
+      </ul>
+    <header class="container header active" id="home">
+        <div class="header-content">
+            <div class="left-header">
+                <div class="h-shape"></div>
+                <div class="image">
+                    <img src="/static/img/animals.png" alt="">                   
+                </div>
+            </div>
+            <div class="right-header">
+                <div class="cerceve">
+                    <div class="galeri">
+                        <img src="/static/img/pet1.JPG">
+                        <img src="/static/img/pet2.JPG">
+                        <img src="/static/img/pet3.JPG">
+                        <img src="/static/img/pet2.JPG">
+                    </div>
+                    <div class="mains">
+                        <h3>ZİYARETÇİLER<div class="roller">
+                          <span id="rolltext" class="yazimiz" >Tüm Ziyaretler: {{all_visitors_count}}<br/>
+                            Günlük Ziyaret: {{daily_visitors_count}}<br/>
+                            Bu sayfa en son {{last_visit}} zamanında ziyaret edildi.<br/>
+                          </div>
+                          </h3>
+                          
+                        </div>
+                    
+                </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    
+    <!--
+    <main>
+        <section class="container about" id="about">
+            <div class="main-title">
+                <h2><span>HAKKIMIZDA</span><span class="bg-text">HAKKIMIZDA</span></h2>
+            </div>
+            <div class="about-container">
+                <div class="left-about">
+                    <h4>BİZ KİMİZ</h4>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+                        Eveniet labore nihil obcaecati consequatur. Debitis error doloremque, 
+                        vero eos vel nemo eius voluptatem dicta tenetur modi. <br /> <br /> La musica
+                        delectus dolore fugiat exercitationem a, 
+                        ipsum quidem quo enim natus accusamus labore dolores nam. Unde.
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
+                        Harum non necessitatibus deleniti eum soluta.
+                    </p>
+                </div>
+                <div class="right-about">
+                    <div class="about-item">
+                        <div class="abt-text">
+                            <p class="large-text">650+</p>
+                            <p class="small-text">Projects <br /> Completed</p>
+                        </div>
+                    </div>
+                    <div class="about-item">
+                        <div class="abt-text">
+                            <p class="large-text">10+</p>
+                            <p class="small-text">Years of <br /> experience</p>
+                        </div>
+                    </div>
+                    <div class="about-item">
+                        <div class="abt-text">
+                            <p class="large-text">300+</p>
+                            <p class="small-text">Happy <br /> Clients</p>
+                        </div>
+                    </div>
+                    <div class="about-item">
+                        <div class="abt-text">
+                            <p class="large-text">400+</p>
+                            <p class="small-text">Customer <br /> reviews</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="about-stats">
+                <h4 class="stat-title">YETENEKLERİM</h4>
+                <div class="progress-bars">
+                    <div class="progress-bar">
+                        <p class="prog-title">html5</p>
+                        <div class="progress-con">
+                            <p class="prog-text">80%</p>
+                            <div class="progress">
+                                <span class="html"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <p class="prog-title">css3</p>
+                        <div class="progress-con">
+                            <p class="prog-text">70%</p>
+                            <div class="progress">
+                                <span class="css"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <p class="prog-title">javascript</p>
+                        <div class="progress-con">
+                            <p class="prog-text">40%</p>
+                            <div class="progress">
+                                <span class="js"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <p class="prog-title">Flutter</p>
+                        <div class="progress-con">
+                            <p class="prog-text">25%</p>
+                            <div class="progress">
+                                <span class="flutter"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <p class="prog-title">Figma</p>
+                        <div class="progress-con">
+                            <p class="prog-text">40%</p>
+                            <div class="progress">
+                                <span class="node"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="progress-bar">
+                        <p class="prog-title">Python</p>
+                        <div class="progress-con">
+                            <p class="prog-text">60%</p>
+                            <div class="progress">
+                                <span class="python"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <h4 class="stat-title">SERTİFİKALARIM</h4>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                    <p class="tl-duration">2010 - present</p>
+                    <h5>Web Developer<span> - Vircrosoft</span></h5>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
+                    </p>
+                </div>
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                    <p class="tl-duration">2008 - 2011</p>
+                    <h5>Software Engineer<span> - Boogle, Inc.</span></h5>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
+                    </p>
+                </div>
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                    <p class="tl-duration">2016 - 2017</p>
+                    <h5>C++ Programmer<span> - Slime Tech</span></h5>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
+                    </p>
+                </div>
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                    <p class="tl-duration">2009 - 2013</p>
+                    <h5>Business Degree<span> - Sussex University</span></h5>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
+                    </p>
+                </div>
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                    <p class="tl-duration">2013 - 2016</p>
+                    <h5>Computer Science Degree<span> - Brookes University</span></h5>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
+                    </p>
+                </div>
+                <div class="timeline-item">
+                    <div class="tl-icon">
+                        <i class="fas fa-briefcase"></i>
+                    </div>
+                    <p class="tl-duration">2017 - present</p>
+                    <h5>3d Animation<span> - Brighton University</span></h5>
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
+                    </p>
+                </div>
+            </div>
+        </section>
+    -->
+            <div id="up">
+                <i class="fa fa-arrow-up"></i>
+            </div>
+        <section class="container" id="blogs">
+            <div class="blogs-content">
+                <div class="main-title">
+                   
+                    <h2><span>Ürünler</span><span class="bg-text">products</span></h2>
+                    <div class="mains">
+                        <h3>ZİYARETÇİLER<div class="roller">
+                          <span id="rolltext" class="yazimiz" >Tüm Ziyaretler: {{all_visitors_count}}<br/>
+                            Günlük Ziyaret: {{daily_visitors_count}}<br/>
+                            Bu sayfa en son {{last_visit}} zamanında ziyaret edildi.<br/>
+                          </div>
+                          </h3>
+                          
+                        </div>
+                        <!--<div class="sayaç2" >Bu sayfa en son <strong>{{last_visit}}</strong> zamanında ziyaret edildi.</div>-->
+                    
+
+                    <div class="blog dropdown">
+                        <button onclick="myFunction()" class="dropbtn">Ürünleri Filtrele</button>
+
+                        <div id="myDropdown" class="dropdown-content">
+
+                        <label class="text-type-position">
+                            <input type="radio" name="product" value="all"> TÜM ÜRÜNLER
+                          </label> <br>
+                        {% for product_type in product_types %}
+                        <label class="text-type-position">
+                            <input type="radio" name="product" value="{{product_type}}"> {{' '.join(product_type.split("-"))}}
+                        </label> <br>
+                        {% endfor %}
+
+                    </div>
+                </div>
+            </div>
+                </div>
+                <div class="blogs">
+                    {% for product in products %}
+                    <div class="blog" data-product="{{product.urun}}">
+                        <img src="{{product.img}}" alt="{{product.isim}}">
+                        <div class="blog-text">
+                            <h4>
+                                {{product.isim}}
+                            </h4>
+                            <ul class="yanbar">
+                                {% for bilgi in product.bilgiler %}
+                                    <li>{{bilgi}}</li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                    {% endfor %}
+
+                    <script>
+                        $(document).ready(function() {
+                            $('input[type=radio][name=product]').change(function() {
+                                var selectedProduct = $(this).val();
+                                if (selectedProduct === 'all') {
+                                    $('.blogs .blog').show();
+                                } else {
+                                    $('.blogs .blog').hide();
+                                    $('.blogs .blog[data-product=' + selectedProduct + ']').show();
+                                }
+                            });
+                        });    
+                    </script>
+
+                </div>
+            </div>
+        </section>
+        <section class="container contact" id="contact">
+            <div class="contact-container">
+                <div class="main-title">
+                    <h2>Bana <span>Ulaşın</span><span class="bg-text">Contact</span></h2>
+                </div>
+                <div class="contact-content-con">
+                    <div class="left-contact">
+                        <h4>İletişime Geç</h4>
+                        <p>
+                            Öneri ve dilekleriniz için bizimle iletişime geçebilirsiniz.
+                        </p>
+                        
+                        </div>
+                        <!--
+                            <div class="contact-icon">
+                                <a href="www.facebook.com" target="_blank">
+                                    <i class="fab fa-facebook-f"></i>
+                                </a>
+                                <a href="#" target="_blank">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                <a href="#" target="_blank">
+                                    <i class="fab fa-github"></i>
+                                </a>
+                                <a href="#" target="_blank">
+                                    <i class="fab fa-youtube"></i>
+                                </a>                            
+                    </div>
+                -->
+                
+                    <div class="right-contact">
+                        <form method="post" action="https://formspree.io/f/mpzeqgbq" class="contact-form">
+                            <div class="input-control i-c-2">
+                                <input name="İSİM" type="İSİM" required placeholder="ADINIZ">
+                                <input name="EMAİL" type="EMAİL" required placeholder="E-posta Adresiniz">
+                            </div>
+                            <div class="input-control">
+                                <input name="KONU" type="KONU" required placeholder="KONU GİRİN">
+                            </div>
+                            <div class="input-control">
+                                <textarea name="MESAJ" id="" cols="15" rows="8" placeholder="MESAJ GÖNDER..."></textarea>
+                            </div>
+                            <div class="input-control" id="hoverme">
+                                <input type="submit" value="GÖNDER" class="button button--large" />
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <div class="controls">
+        <div class="control active-btn" data-id="home" >
+            <i class="fas fa-home"></i>
+        </div>
+        <!--
+        <div class="control" data-id="about">
+            <i class="fas fa-user"></i>
+        </div>
+    -->
+        <div class="control" data-id="blogs">
+            <i class="far fa-newspaper"></i>
+        </div>
+        <div class="control" data-id="contact">
+            <i class="fas fa-envelope-open"></i>
+        </div>
+    </div>
+    <div class="theme-btn">
+        <i class="fas fa-adjust"></i>
+    </div>
+    <script src="/static/js/app.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js" integrity="sha512-STof4xm1wgkfm7heWqFJVn58Hm3EtS31XFaagaa8VMReCXAkQnJZ+jEy8PCC/iT18dFy95WcExNHFTqLyp72eQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</body>
+</html>
